@@ -16,20 +16,20 @@ The following **required** functionality is completed:
 ## App Brainstorming
 
 **Favorite Applications:**
-1. Apple Music
-        - Share playlists feature
-        - School and family plans
-        - Curated playlists
-2. Hopper App
-        - Alerts users on the ideal time to book flights based on predicted price fluctuations
-        - Ability to explore new deals and packages 
-3. Facebook
-       - Ability to create and join groups based on special interests
-       - Sign ups for events in one's local community
+1. Apple Music<br>
+        - Share playlists feature<br>
+        - School and family plans<br>
+        - Curated playlists<br>
+2. Hopper App<br>
+        - Alerts users on the ideal time to book flights based on predicted price fluctuations<br>
+        - Ability to explore new deals and packages<br>
+3. Facebook<br>
+       - Ability to create and join groups based on special interests<br>
+       - Sign ups for events in one's local community<br>
 
 App idea:
 
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not committing to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
+An app that allows people to report autonomous vehicle accidents that happen on the road so that manufacturers, governments and other parties may obtain a log of this information via region to help inform safer regulations. The app would proactively alert drivers of potential safety hazards on their route specifically for an autonomous vehicle so that they can proactively address those hazards or change their route to a more autonomous vehicle friendly route.
 
 
 ## Notes
